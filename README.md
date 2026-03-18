@@ -7,4 +7,4 @@ Download these files from the repository:
 1. Lab Instructions.pdf
 2. Starting Network.pkt
 
-Do what is in the lab instructions first then answer the questions in the student survey using this link: .
+Do what is in the lab instructions first then answer the questions in the student survey using this link: https://forms.gle/RrUdqkLe5MYgbrq5A.
