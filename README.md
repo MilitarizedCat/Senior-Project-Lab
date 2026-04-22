@@ -8,7 +8,7 @@ Download these files from the repository:
 
 Do what is in the lab instructions first then answer the questions in the student survey using this link: https://forms.gle/RrUdqkLe5MYgbrq5A.
 
-
+____________________________________________________________________________________________________________________
 
 En qué consiste este laboratorio:
 Este laboratorio le guiará a través del proceso de construcción y aseguramiento de una pequeña red utilizando Cisco Packet Tracer. Seguirá el sencillo plan de seguridad que también se encuentra disponible en este repositorio para su consulta. El laboratorio avanzará paso a paso y, una vez finalizado, podrá hacer con él lo que desee.
